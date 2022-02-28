@@ -10,7 +10,8 @@ This is a single page application utlizing HTML, CSS, JavaScript and a third-prt
 
 Upload index.html, script.js, and style.css to the deployed webserver. Apllication can also be deployed using GitHub pages via the repository:
 
-https://lwsjsh.github.io/Weather-Dashhboard/
+GitHub Pages link: https://lwsjsh.github.io/Weather-Dashhboard/
+Repository link: https://github.com/lwsjsh/Weather-Dashhboard.git
 
 
 ## Usage
